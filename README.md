@@ -2,6 +2,8 @@
 
 This is a simple weather web application built using HTML and CSS, which utilizes a weather API to fetch real-time weather data.
 
+Link to the web page - https://tanisha-19-dev.github.io/Weather-App/
+
 ## Features
 - Displays current weather conditions
 - Shows temperature, humidity, and wind speed
