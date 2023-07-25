@@ -34,8 +34,5 @@ Contributions are welcome! If you find any issues or have suggestions to improve
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- Weather data provided by [Weather Service Provider](https://www.weather-service-provider.com)
-- Icons made by [Icon Designer](https://www.icon-designer.com) from [www.flaticon.com](https://www.flaticon.com/)
+- Weather data provided by [Weather Service Provider](https://www.rapidapi.com)
 
----
-**Note**: Make sure to replace `your-username` in the repository URL with your GitHub username before sharing the link with others.
